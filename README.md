@@ -1,7 +1,7 @@
 # MT-Toolkit-List
 A list of machine translation open-source toolkits maintained by Tsinghua Natural Language Processing Group. 
 
-This list only contains MT toolkits avialble on GitHub. We distinguish between staitsical machine translation (SMT) and neural machine translation (NMT). These toolkits are ranked according to GitHub stars.
+This list only contains MT toolkits available on GitHub. We distinguish between staitsical machine translation (SMT) and neural machine translation (NMT). These toolkits are ranked according to GitHub stars.
 
 ## Neural Machine Translation
 
